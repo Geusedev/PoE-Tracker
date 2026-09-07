@@ -201,8 +201,6 @@ If you distribute only the installer:
 
 ### 8) Visual media section
 
-Add your screenshots to `docs/media/` and link them here.
-
 **Overview**
 
 ![Dashboard](docs/media/dashboard.png)
