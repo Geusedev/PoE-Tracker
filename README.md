@@ -98,8 +98,6 @@ Checklist:
 
 ### 8) Sección visual (capturas)
 
-Puedes añadir material visual en `docs/media/` y referenciarlo aquí.
-
 Ejemplos:
 
 **Vista general**
